@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Trudy
+- 👀 I’m interested in Hip Hop, emerging country economies and data science.
+- 🌱 I’m currently learning python.
